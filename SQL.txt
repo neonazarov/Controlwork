@@ -1,0 +1,5 @@
+Select * employee_id where phone_number like '%90'
+Select * employee_id where email is not null
+Select * employee_id where department_id between 5 and 6
+select * employee_id where salary > 5000
+Select * employee-id where salary > 2000 and < 1500
